@@ -1,3 +1,18 @@
 inside backend :
 simulation
 sensors
+
+in visualization :
+Blue = Base Station
+Green = Receiver
+Red = Warden
+Brown = Buildings
+Gray = Roads
+
+WARDEN:
+(for now)The warden follows roads only.When it reaches an intersection,
+it decides whether to
+go straight
+turn left
+turn right
+(future)The warden moves randomly anywhere in the map.
